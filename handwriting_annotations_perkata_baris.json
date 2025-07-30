@@ -1,0 +1,1089 @@
+[
+  {
+    "filename": "coretan_1.jpg",
+    "annotations": [
+      {
+        "word": "I",
+        "bbox": [
+          0,
+          20,
+          15,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_2.jpg",
+    "annotations": [
+      {
+        "word": "id",
+        "bbox": [
+          0,
+          20,
+          30,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_3.jpg",
+    "annotations": [
+      {
+        "word": "Pendidikan",
+        "bbox": [
+          0,
+          20,
+          150,
+          60
+        ]
+      },
+      {
+        "word": "Ilmu",
+        "bbox": [
+          160,
+          20,
+          220,
+          60
+        ]
+      },
+      {
+        "word": "Pendidikan",
+        "bbox": [
+          230,
+          20,
+          380,
+          60
+        ]
+      },
+      {
+        "word": "mengupas",
+        "bbox": [
+          390,
+          20,
+          510,
+          60
+        ]
+      },
+      {
+        "word": "kajian-kajian",
+        "bbox": [
+          520,
+          20,
+          715,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_4.jpg",
+    "annotations": [
+      {
+        "word": "Contoh",
+        "bbox": [
+          0,
+          20,
+          90,
+          60
+        ]
+      },
+      {
+        "word": "mendidik",
+        "bbox": [
+          100,
+          20,
+          220,
+          60
+        ]
+      },
+      {
+        "word": "-",
+        "bbox": [
+          230,
+          20,
+          245,
+          60
+        ]
+      },
+      {
+        "word": "metode",
+        "bbox": [
+          255,
+          20,
+          345,
+          60
+        ]
+      },
+      {
+        "word": "penelitian",
+        "bbox": [
+          355,
+          20,
+          505,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_5.jpg",
+    "annotations": [
+      {
+        "word": "my",
+        "bbox": [
+          0,
+          20,
+          30,
+          60
+        ]
+      },
+      {
+        "word": "answer",
+        "bbox": [
+          40,
+          20,
+          130,
+          60
+        ]
+      },
+      {
+        "word": "1",
+        "bbox": [
+          140,
+          20,
+          155,
+          60
+        ]
+      },
+      {
+        "word": "jawaban",
+        "bbox": [
+          165,
+          20,
+          270,
+          60
+        ]
+      },
+      {
+        "word": "aternatf",
+        "bbox": [
+          280,
+          20,
+          400,
+          60
+        ]
+      },
+      {
+        "word": "2",
+        "bbox": [
+          410,
+          20,
+          425,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_6.jpg",
+    "annotations": [
+      {
+        "word": "dimana",
+        "bbox": [
+          0,
+          20,
+          90,
+          60
+        ]
+      },
+      {
+        "word": "pada",
+        "bbox": [
+          100,
+          20,
+          160,
+          60
+        ]
+      },
+      {
+        "word": "tabel",
+        "bbox": [
+          170,
+          20,
+          245,
+          60
+        ]
+      },
+      {
+        "word": "universal",
+        "bbox": [
+          255,
+          20,
+          390,
+          60
+        ]
+      },
+      {
+        "word": "sudah",
+        "bbox": [
+          400,
+          20,
+          475,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_7.jpg",
+    "annotations": [
+      {
+        "word": "tabel",
+        "bbox": [
+          0,
+          20,
+          75,
+          60
+        ]
+      },
+      {
+        "word": "pesanan",
+        "bbox": [
+          85,
+          20,
+          190,
+          60
+        ]
+      },
+      {
+        "word": "&",
+        "bbox": [
+          200,
+          20,
+          215,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_8.jpg",
+    "annotations": [
+      {
+        "word": "ID_menu",
+        "bbox": [
+          0,
+          20,
+          105,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_9.jpg",
+    "annotations": [
+      {
+        "word": "NF",
+        "bbox": [
+          0,
+          20,
+          30,
+          60
+        ]
+      },
+      {
+        "word": "dimana",
+        "bbox": [
+          40,
+          20,
+          130,
+          60
+        ]
+      },
+      {
+        "word": "pada",
+        "bbox": [
+          140,
+          20,
+          200,
+          60
+        ]
+      },
+      {
+        "word": "tabel",
+        "bbox": [
+          210,
+          20,
+          285,
+          60
+        ]
+      },
+      {
+        "word": "universal",
+        "bbox": [
+          295,
+          20,
+          430,
+          60
+        ]
+      },
+      {
+        "word": "sudah",
+        "bbox": [
+          440,
+          20,
+          515,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_10.jpg",
+    "annotations": [
+      {
+        "word": "ternormalisasi",
+        "bbox": [
+          0,
+          20,
+          210,
+          60
+        ]
+      },
+      {
+        "word": "1NF",
+        "bbox": [
+          220,
+          20,
+          265,
+          60
+        ]
+      },
+      {
+        "word": "karena",
+        "bbox": [
+          275,
+          20,
+          365,
+          60
+        ]
+      },
+      {
+        "word": "tidak",
+        "bbox": [
+          375,
+          20,
+          450,
+          60
+        ]
+      },
+      {
+        "word": "ada",
+        "bbox": [
+          460,
+          20,
+          505,
+          60
+        ]
+      },
+      {
+        "word": "data",
+        "bbox": [
+          515,
+          20,
+          575,
+          60
+        ]
+      },
+      {
+        "word": "yang",
+        "bbox": [
+          585,
+          20,
+          645,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_11.jpg",
+    "annotations": [
+      {
+        "word": "kurang",
+        "bbox": [
+          0,
+          20,
+          90,
+          60
+        ]
+      },
+      {
+        "word": "kolom",
+        "bbox": [
+          100,
+          20,
+          175,
+          60
+        ]
+      },
+      {
+        "word": "(",
+        "bbox": [
+          185,
+          20,
+          200,
+          60
+        ]
+      },
+      {
+        "word": "menu",
+        "bbox": [
+          210,
+          20,
+          270,
+          60
+        ]
+      },
+      {
+        "word": ")",
+        "bbox": [
+          280,
+          20,
+          295,
+          60
+        ]
+      },
+      {
+        "word": "karena",
+        "bbox": [
+          305,
+          20,
+          395,
+          60
+        ]
+      },
+      {
+        "word": "Tanggal_pesanan",
+        "bbox": [
+          405,
+          20,
+          630,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_12.jpg",
+    "annotations": [
+      {
+        "word": "primary",
+        "bbox": [
+          0,
+          20,
+          105,
+          60
+        ]
+      },
+      {
+        "word": "key",
+        "bbox": [
+          115,
+          20,
+          160,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_13.jpg",
+    "annotations": [
+      {
+        "word": "kesalahan",
+        "bbox": [
+          0,
+          20,
+          135,
+          60
+        ]
+      },
+      {
+        "word": "kedua",
+        "bbox": [
+          145,
+          20,
+          220,
+          60
+        ]
+      },
+      {
+        "word": "terdapat",
+        "bbox": [
+          230,
+          20,
+          350,
+          60
+        ]
+      },
+      {
+        "word": "pada",
+        "bbox": [
+          360,
+          20,
+          420,
+          60
+        ]
+      },
+      {
+        "word": "tabel",
+        "bbox": [
+          430,
+          20,
+          505,
+          60
+        ]
+      },
+      {
+        "word": "detail_pesanan",
+        "bbox": [
+          515,
+          20,
+          725,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_14.jpg",
+    "annotations": [
+      {
+        "word": "perbaikan",
+        "bbox": [
+          0,
+          20,
+          135,
+          60
+        ]
+      },
+      {
+        "word": ":",
+        "bbox": [
+          145,
+          20,
+          160,
+          60
+        ]
+      },
+      {
+        "word": "semua",
+        "bbox": [
+          170,
+          20,
+          245,
+          60
+        ]
+      },
+      {
+        "word": "data",
+        "bbox": [
+          255,
+          20,
+          315,
+          60
+        ]
+      },
+      {
+        "word": "pengulangan",
+        "bbox": [
+          325,
+          20,
+          490,
+          60
+        ]
+      },
+      {
+        "word": "data",
+        "bbox": [
+          500,
+          20,
+          560,
+          60
+        ]
+      },
+      {
+        "word": "dihilangkan",
+        "bbox": [
+          570,
+          20,
+          735,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_15.jpg",
+    "annotations": [
+      {
+        "word": "pada",
+        "bbox": [
+          0,
+          20,
+          60,
+          60
+        ]
+      },
+      {
+        "word": "tabel",
+        "bbox": [
+          70,
+          20,
+          145,
+          60
+        ]
+      },
+      {
+        "word": "menu",
+        "bbox": [
+          155,
+          20,
+          215,
+          60
+        ]
+      },
+      {
+        "word": ":",
+        "bbox": [
+          225,
+          20,
+          240,
+          60
+        ]
+      },
+      {
+        "word": "field",
+        "bbox": [
+          250,
+          20,
+          325,
+          60
+        ]
+      },
+      {
+        "word": "ID_Menu",
+        "bbox": [
+          335,
+          20,
+          440,
+          60
+        ]
+      },
+      {
+        "word": "diubah",
+        "bbox": [
+          450,
+          20,
+          540,
+          60
+        ]
+      },
+      {
+        "word": "menjadi",
+        "bbox": [
+          550,
+          20,
+          655,
+          60
+        ]
+      },
+      {
+        "word": "ID_Menu",
+        "bbox": [
+          665,
+          20,
+          770,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_16.jpg",
+    "annotations": [
+      {
+        "word": ".",
+        "bbox": [
+          0,
+          20,
+          15,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_17.jpg",
+    "annotations": [
+      {
+        "word": "1.",
+        "bbox": [
+          0,
+          20,
+          30,
+          60
+        ]
+      },
+      {
+        "word": "kesalahan",
+        "bbox": [
+          40,
+          20,
+          175,
+          60
+        ]
+      },
+      {
+        "word": "pertama",
+        "bbox": [
+          185,
+          20,
+          290,
+          60
+        ]
+      },
+      {
+        "word": "terdapat",
+        "bbox": [
+          300,
+          20,
+          420,
+          60
+        ]
+      },
+      {
+        "word": "pada",
+        "bbox": [
+          430,
+          20,
+          490,
+          60
+        ]
+      },
+      {
+        "word": "normalisasi",
+        "bbox": [
+          500,
+          20,
+          665,
+          60
+        ]
+      },
+      {
+        "word": "1NF",
+        "bbox": [
+          675,
+          20,
+          720,
+          60
+        ]
+      },
+      {
+        "word": "yang",
+        "bbox": [
+          730,
+          20,
+          790,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_18.jpg",
+    "annotations": [
+      {
+        "word": "1.kesalahan",
+        "bbox": [
+          0,
+          20,
+          165,
+          60
+        ]
+      },
+      {
+        "word": "terletak",
+        "bbox": [
+          175,
+          20,
+          295,
+          60
+        ]
+      },
+      {
+        "word": "pada",
+        "bbox": [
+          305,
+          20,
+          365,
+          60
+        ]
+      },
+      {
+        "word": "kolom",
+        "bbox": [
+          375,
+          20,
+          450,
+          60
+        ]
+      },
+      {
+        "word": "pelanggan",
+        "bbox": [
+          460,
+          20,
+          595,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_19.jpg",
+    "annotations": [
+      {
+        "word": "alat",
+        "bbox": [
+          0,
+          20,
+          60,
+          60
+        ]
+      },
+      {
+        "word": "pendidikan",
+        "bbox": [
+          70,
+          20,
+          220,
+          60
+        ]
+      },
+      {
+        "word": "adalah",
+        "bbox": [
+          230,
+          20,
+          320,
+          60
+        ]
+      },
+      {
+        "word": "tindakan",
+        "bbox": [
+          330,
+          20,
+          450,
+          60
+        ]
+      },
+      {
+        "word": "pendidikan",
+        "bbox": [
+          460,
+          20,
+          610,
+          60
+        ]
+      },
+      {
+        "word": "agar",
+        "bbox": [
+          620,
+          20,
+          680,
+          60
+        ]
+      },
+      {
+        "word": "lebih",
+        "bbox": [
+          690,
+          20,
+          765,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_20.jpg",
+    "annotations": [
+      {
+        "word": "1.",
+        "bbox": [
+          0,
+          20,
+          30,
+          60
+        ]
+      },
+      {
+        "word": "kesalahan",
+        "bbox": [
+          40,
+          20,
+          175,
+          60
+        ]
+      },
+      {
+        "word": "terletak",
+        "bbox": [
+          185,
+          20,
+          305,
+          60
+        ]
+      },
+      {
+        "word": "pada",
+        "bbox": [
+          315,
+          20,
+          375,
+          60
+        ]
+      },
+      {
+        "word": "kolom",
+        "bbox": [
+          385,
+          20,
+          460,
+          60
+        ]
+      },
+      {
+        "word": "pelanggan",
+        "bbox": [
+          470,
+          20,
+          605,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_21.jpg",
+    "annotations": [
+      {
+        "word": "alat",
+        "bbox": [
+          0,
+          20,
+          60,
+          60
+        ]
+      },
+      {
+        "word": "penddikan",
+        "bbox": [
+          70,
+          20,
+          205,
+          60
+        ]
+      },
+      {
+        "word": "adalah",
+        "bbox": [
+          215,
+          20,
+          305,
+          60
+        ]
+      },
+      {
+        "word": "tindakan",
+        "bbox": [
+          315,
+          20,
+          435,
+          60
+        ]
+      },
+      {
+        "word": "pendidikan",
+        "bbox": [
+          445,
+          20,
+          595,
+          60
+        ]
+      },
+      {
+        "word": "agar",
+        "bbox": [
+          605,
+          20,
+          665,
+          60
+        ]
+      },
+      {
+        "word": "lebih",
+        "bbox": [
+          675,
+          20,
+          750,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_22.jpg",
+    "annotations": [
+      {
+        "word": "efisien",
+        "bbox": [
+          0,
+          20,
+          105,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "coretan_23.jpg",
+    "annotations": [
+      {
+        "word": "jakarta",
+        "bbox": [
+          0,
+          20,
+          105,
+          60
+        ]
+      },
+      {
+        "word": "08123456789",
+        "bbox": [
+          115,
+          20,
+          280,
+          60
+        ]
+      }
+    ]
+  }
+]
